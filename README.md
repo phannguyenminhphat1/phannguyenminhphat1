@@ -1,42 +1,13 @@
-# Hi there 👋 I'm Phat
+Hey there! 👋
 
-Backend Developer passionate about building scalable systems and clean architecture.
+I'm Phat, a backend developer.
 
----
+I enjoy designing and building scalable backend systems.
 
-## About Me
+My main stack is .NET Core, EF Core, Node.js, and SQL Server.  
+I'm particularly interested in Clean Architecture, DDD, and system design.
 
-- Backend Developer focused on **.NET Core & Node.js**
-- Interested in **Clean Architecture, DDD, and scalable system design**
-- Passionate about building **maintainable RESTful APIs**
-- Always improving problem-solving and backend engineering skills
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-- .NET Core (Web API)
-- Entity Framework Core
-- Node.js (NestJS, ExpressJS)
-- SignalR
-
-### Frontend
-- ReactJS
-- TypeScript
-- TanStack Query
-- TailwindCSS
-- Blazor Server
-
-### Database
-- SQL Server
-- MongoDB
-- PostgreSQL
-
-### Tools & DevOps
-- Docker
-- Git
-- Postman
-- Swagger
-
----
+Fun facts:
+- I enjoy learning new backend technologies
+- Interested in scalable system design
+- Always improving problem-solving skills
