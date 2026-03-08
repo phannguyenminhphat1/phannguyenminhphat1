@@ -1,7 +1,6 @@
 # Hey there 👋 I'm Phat
 
-💻 Backend Developer 
-🚀 Passionate about building scalable backend systems and clean APIs
+💻 Backend Developer passionate about building scalable systems and clean architecture.
 
 ---
 
