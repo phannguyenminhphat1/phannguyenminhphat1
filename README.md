@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Phat
 
-<!--
-**phannguyenminhphat1/phannguyenminhphat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer passionate about building scalable systems and clean architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Backend Developer focused on **.NET Core & Node.js**
+- Interested in **Clean Architecture, DDD, and scalable system design**
+- Passionate about building **maintainable RESTful APIs**
+- Always improving problem-solving and backend engineering skills
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- .NET Core (Web API)
+- Entity Framework Core
+- Node.js (NestJS, ExpressJS)
+- SignalR
+
+### Frontend
+- ReactJS
+- TypeScript
+- TanStack Query
+- TailwindCSS
+- Blazor Server
+
+### Database
+- SQL Server
+- MongoDB
+- PostgreSQL
+
+### Tools & DevOps
+- Docker
+- Git
+- Postman
+- Swagger
+
+---
